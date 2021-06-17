@@ -1,6 +1,6 @@
 # note-taker
 
-https://sanawck.github.io/note-taker/
+ https://git.heroku.com/notetakersana.git
  
  
 GIVEN a note-taking application
